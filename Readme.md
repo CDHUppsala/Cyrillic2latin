@@ -30,8 +30,6 @@ Script has been forked from [https://github.com/mardub1635/Cyrillic-to-latin](ht
 The gif comes from the [Tutorial to learn terminal](https://github.com/brizandrew/nicar-2022-javascript-103/blob/5492890c1d7e52ea8f5c5b31fe98107dbe15a51d/lesson/1%20–%C2%A0The%20Command%20Line.md)
 
 # Authors:
-Original project of [Tomislov Dulic](https://www.katalog.uu.se/profile/?id=N96-5917). [Drop in contact](https://www.abm.uu.se/cdhu-eng/contact-eng/) at CDHU
-Engineer:
 Marie Dubremetz
 Website:
 [http://www.mariedubremetz.com](http://www.mariedubremetz.com)
@@ -42,5 +40,9 @@ Github:
 
 e-mail:
 mardubr-github@yahoo.com
+
+Original project of [Tomislov Dulic](https://www.katalog.uu.se/profile/?id=N96-5917). [Drop in contact](https://www.abm.uu.se/cdhu-eng/contact-eng/) at CDHU
+
+
 
 
