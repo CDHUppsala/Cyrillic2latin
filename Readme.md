@@ -11,7 +11,7 @@ This project aims at transliterating files from serbian cyrilic alphabet to lati
 If you already have a text in the txt format you can use directly the python script
 
 
-1. Download Cyrillic2latin.zip and extract it to a folder.
+1. Download [Cyrillic2latin.zip](https://gitlab.com/mardub/cyrillic2latin/-/raw/master/CyrillictoLatin.py?inline=false) and extract it to a folder.
 2. Search for Terminal.app in Spotlight (⌘+SPACE), then open it.
 3. In the Terminal window, type cd , press the SPACE key, then drag and drop the extracted folder into the window, then press the RETURN key.
 
@@ -44,5 +44,6 @@ mardubr-github@yahoo.com
 Original project of [Tomislov Dulic](https://www.katalog.uu.se/profile/?id=N96-5917). [Drop in contact](https://www.abm.uu.se/cdhu-eng/contact-eng/) at CDHU
 
 
+Script available on [github](https://github.com/CDHUppsala/Cyrillic2latin)  and gitlab: [https://gitlab.com/mardub/cyrillic2latin]
 
 
