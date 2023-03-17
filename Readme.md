@@ -1,4 +1,5 @@
 # Description
+![A GIF showing the the inputs and output of the script](./illustration.gif "Illustration")
 This project aims at transliterating files from serbian cyrilic alphabet to latin alphabet.
 - Example:
 ```
@@ -22,7 +23,8 @@ find . -type f -exec python3 CyrillictoLatin.py {} \;
 ```
 
 
-#References
+# References
 
 Script has been forked from [https://github.com/mardub1635/Cyrillic-to-latin](https://github.com/mardub1635/Cyrillic-to-latin)
-[Tutorial to learn terminal](https://github.com/brizandrew/nicar-2022-javascript-103/blob/5492890c1d7e52ea8f5c5b31fe98107dbe15a51d/lesson/1%20–%C2%A0The%20Command%20Line.md)
+
+The gif comes from the [Tutorial to learn terminal](https://github.com/brizandrew/nicar-2022-javascript-103/blob/5492890c1d7e52ea8f5c5b31fe98107dbe15a51d/lesson/1%20–%C2%A0The%20Command%20Line.md)
