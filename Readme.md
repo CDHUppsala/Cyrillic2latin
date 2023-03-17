@@ -28,3 +28,18 @@ find . -type f -exec python3 CyrillictoLatin.py {} \;
 Script has been forked from [https://github.com/mardub1635/Cyrillic-to-latin](https://github.com/mardub1635/Cyrillic-to-latin)
 
 The gif comes from the [Tutorial to learn terminal](https://github.com/brizandrew/nicar-2022-javascript-103/blob/5492890c1d7e52ea8f5c5b31fe98107dbe15a51d/lesson/1%20–%C2%A0The%20Command%20Line.md)
+
+# Authors:
+Original project of [Tomislov Dulic](https://www.katalog.uu.se/empinfo/?id=N96-2024). Drop in at CDHU
+Engineer:
+Marie Dubremetz
+Gitlab:
+[@mardub](https://gitlab.com/mardub)
+Github:
+[@mardub1635](https://github.com/mardub1635)
+Website:
+[http://www.mariedubremetz.com](http://www.mariedubremetz.com)
+e-mail:
+mardubr-github@yahoo.com
+
+
